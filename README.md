@@ -63,4 +63,4 @@
 Для работы с проектом потребуется **Python 3.x** и следующие библиотеки:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn catboost
+pip install pandas numpy matplotlib seaborn scikit-learn catboost 
