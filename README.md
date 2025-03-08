@@ -26,7 +26,7 @@
 
 ## Подробнее
 
-[Посмотреть ноутбук можно здесь](project/user_churn_prediction.ipynb)
+[Посмотреть ноутбук можно здесь](user_churn_prediction.ipynb)
 
 ---
 
